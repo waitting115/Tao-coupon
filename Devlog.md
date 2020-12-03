@@ -7,3 +7,5 @@
   根据提示,即可进入宝塔界面
   
   然后安装nginx服务器 + mysql + node
+
+  安装phpadmin,来管理mysql
